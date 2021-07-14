@@ -1,0 +1,16 @@
+defmodule Day{-number-} do
+  @moduledoc """
+  """
+
+  @doc """
+  """
+  def part1(input) do
+
+  end
+
+  @doc """
+  """
+  def part2(input) do
+
+  end
+end

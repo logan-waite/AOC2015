@@ -1,0 +1,5 @@
+defmodule Day{-number-}Test do
+  use ExUnit.Case
+  doctest Day{-number-}
+
+  end
